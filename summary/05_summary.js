@@ -35,3 +35,5 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+// primitive  are stored in stack(pass by value)
+// non-primitive in heap ( pass by refrence)
